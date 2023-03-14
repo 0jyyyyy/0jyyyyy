@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=Java&logoColor=white"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0jyyyyy&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0jyyyyy)](https://github.com/anuraghazra/github-readme-stats)
