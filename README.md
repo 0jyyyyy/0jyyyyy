@@ -14,4 +14,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-7D00FF?style=flat&logo=Intellij IDEA&logoColor=white"/>
 
+### Contact me
+ojy0533@naver.com
+
 ![0jyyyyy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0jyyyyy&show_icons=true&theme=radical) 
