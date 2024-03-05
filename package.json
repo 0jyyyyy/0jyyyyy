@@ -1,0 +1,16 @@
+{
+  "name": "0jyyyyy",
+  "version": "1.0.0",
+  "description": "<img src=\"https://img.shields.io/badge/Java-3178C6?style=flat&logo=Java&logoColor=black\"/> <img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black\"/>\r <img src=\"https://img.shields.io/badge/TypeScript-2E2EFE?style=flat&logo=TypeScript&logoColor=white\"/>\r <img src=\"https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white\"/>\r <img src=\"https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black\"/>\r <img src=\"https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black\"/>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
