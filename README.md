@@ -20,5 +20,7 @@
 📬 ojy0533@naver.com
 ## Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=nerd_tech)](https://velog.io/@nerd_tech) 
+<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nerd_tech)](https://github.com/nerd_tech/velog-readme-stats)
 
 ![0jyyyyy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0jyyyyy&show_icons=true&theme=radical)
