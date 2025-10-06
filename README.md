@@ -13,7 +13,6 @@
 ## Tools<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intellij IDEA-7D00FF?style=flat&logo=Intellij IDEA&logoColor=white"/>
 
 ### Contact me
 ### Mail
