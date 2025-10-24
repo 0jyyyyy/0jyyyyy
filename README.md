@@ -19,4 +19,4 @@
 📬 ojy0533@naver.com
 
 ## Stats
-![0jyyyyy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0jyyyyy&show_icons=true&theme=radical&count_private=true)
+[![0jyyyyy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0jyyyyy](https://github.com/0jyyyyy/github-readme-stats)&show_icons=true&theme=radical&count_private=true)
