@@ -5,7 +5,7 @@
 
 
 ## Tools<br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-#F37626.svg?style=flat&logo=Jupyter&logoColor=orange" />
 
 
 ### Contact me
