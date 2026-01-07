@@ -2,7 +2,7 @@
 
 ## Language<br> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/>
-
+<img src="https://img.shields.io/badge/pandas-#150458?style=flat&logo=pandas&logoColor=yellow"/>
 
 
 ## Tools<br>
