@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Language<br> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" />
 
 
 ## Tools<br>
