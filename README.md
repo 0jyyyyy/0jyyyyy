@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white" /> 
 
 ## Visualization<br> 
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/Seaborn-%234470B1.svg?style=flat&logo=Seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-%234470B1.svg?style=flat&logo=Seaborn&logoColor=white" />
 
 ## Tools<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-%23111111.svg?style=flat&logo=Jupyter&logoColor=orange" />
