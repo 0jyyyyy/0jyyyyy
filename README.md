@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-## Language<br> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" />
+## Languages<br> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/>  
 
-
+## Data Analysis<br>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Seaborn-%234470B1.svg?style=for-the-badge&logo=Seaborn&logoColor=white" />
 ## Tools<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-%23111111.svg?style=flat&logo=Jupyter&logoColor=orange" />
 
