@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/>  
 
 ## Data Analysis<br>
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white" /> <img src="https://img.shields.io/badge/BeautifulSoup-4E9A06?style=flat&logo=python&logoColor=white" />
 
 ## Visualization<br> 
 <img src="https://img.shields.io/badge/Matplotlib-%23F93821.svg?style=flat&logo=Matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=flat&logo=Seaborn&logoColor=white" />
