@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 ## Visualization<br> 
 <img src="https://img.shields.io/badge/Matplotlib-%23F93821.svg?style=flat&logo=Matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=flat&logo=Seaborn&logoColor=white" />
+## Computer Vision<br>
+<img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat&logo=openCV&logoColor=black" />
 
 ## Tools<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-%23111111.svg?style=flat&logo=Jupyter&logoColor=orange" /> <img src="https://img.shields.io/badge/git-%23FFFF66.svg?style=flat&logo=git&logoColor=black" />
