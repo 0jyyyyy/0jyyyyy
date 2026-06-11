@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat&logo=openCV&logoColor=white" /> <img src="https://img.shields.io/badge/yolo-%23111F68.svg?style=flat&logo=yolo&logoColor=white" />
 
 ## Tools<br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-%23111111.svg?style=flat&logo=Jupyter&logoColor=orange" /> <img src="https://img.shields.io/badge/git-%23FFFF66.svg?style=flat&logo=git&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-%23111111.svg?style=flat&logo=Jupyter&logoColor=orange" /> <img src="https://img.shields.io/badge/git-%23FFFF66.svg?style=flat&logo=git&logoColor=black" /> <img src="https://img.shields.io/badge/git-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=black" />
 
 
 ### Contact me
